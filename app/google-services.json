@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569984684479",
+    "firebase_url": "https://lab-8-andres-default-rtdb.firebaseio.com",
+    "project_id": "lab-8-andres",
+    "storage_bucket": "lab-8-andres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569984684479:android:935311ea827af76030d10a",
+        "android_client_info": {
+          "package_name": "com.lasalle.midterm.restaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569984684479-qe6go6o3uvllltm72virups262gsmakh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQ64nBCgMc3iG9H4QSyZIsJaBV76xe1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569984684479-qe6go6o3uvllltm72virups262gsmakh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
