@@ -30,11 +30,11 @@ public class Restaurants {
         this.phone = phone;
     }
 
-    public List<String> getRating() {
+    public List<Long> getRating() {
         return rating;
     }
 
-    public void setRating(List<String> rating) {
+    public void setRating(List<Long> rating) {
         this.rating = rating;
     }
 
@@ -49,10 +49,14 @@ public class Restaurants {
     private String address;
     private String name;
     private String phone;
-    private List<String> rating;
+    private List<Long> rating;
     private List<String> foods;
 
-    public Restaurants(String address, String name, String phone, List<String> rating, List<String> foods) {
+    public  Restaurants(){
+
+    }
+
+    public Restaurants(String address, String name, String phone, List<Long> rating, List<String> foods) {
         this.address = address;
         this.name = name;
         this.phone = phone;
